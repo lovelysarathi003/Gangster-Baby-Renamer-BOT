@@ -47,7 +47,6 @@
 <details><summary>Deploy To render</summary>
 <P>
 <br>
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/lovelysarathi003/Gangster-Baby-Renamer-BOT)
 <a href="https://render.com/deploy?repo=https://github.com/lovelysarathi003/Gangster-Baby-Renamer-BOT">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
